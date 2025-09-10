@@ -2,6 +2,8 @@
 
 A terminal-based AI coding assistant powered by Ollama models. This tool provides a Claude Code-like experience but running fully locally using Ollama models. Optimized for Kali Linux with special features for security professionals.
 
+<img width="959" height="511" alt="ollama-code" src="https://github.com/user-attachments/assets/972849c8-3b4e-417f-86dd-ac2de9f8bd9f" />
+
 - Official page and updates: https://ollama.com/influencepm/ollama-code
 
 ## Features
